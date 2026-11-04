@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/global.d.ts","./src/main.tsx","./src/components/Header.tsx","./src/components/SectionIcon.tsx","./src/hooks/useClock.ts","./src/hooks/useRemote.ts","./src/pages/Dashboard.tsx","./src/pages/Demo.tsx","./src/pages/Gallery.tsx","./src/pages/Home.tsx","./src/pages/Whiteboard.tsx","./src/utils/data.ts"],"version":"5.6.3"}
