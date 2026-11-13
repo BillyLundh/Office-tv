@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, type PointerEvent } from 'react';
-const colors=['#d8a25e','#f1ede6','#72b6a0','#789bd1','#c87367'];
+const colors=['#d8a25e','#7653a6','#72b6a0','#466fc4','#c87367'];
 type Tool='pen'|'eraser';
 export function Whiteboard() {
  const canvas=useRef<HTMLCanvasElement>(null); const drawing=useRef(false); const [color,setColor]=useState(colors[0]); const [tool,setTool]=useState<Tool>('pen');
